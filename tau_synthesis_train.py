@@ -1,4 +1,10 @@
 #from __future__ import print_function
+"""
+@ Modified by Jeyeon Lee
+author: Kolařík, M., Burget, R., Uher, V., Říha, K., & Dutta, M. K. (2019). 
+Optimized High Resolution 3D Dense-U-Net Network for Brain and Spine Segmentation. Applied Sciences, 9(3), vol. 9, no. 3.
+(See https://github.com/mrkolarik/3D-brain-segmentation)
+"""
 
 import os, h5py
 import numpy as np
